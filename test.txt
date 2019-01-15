@@ -1,1 +1,2 @@
 String sample v1
+Another string sample v2
