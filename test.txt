@@ -1,7 +1,3 @@
 String sample
 Another string sample
 Just the 3rd string... nothing else :)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Ut nec cursus massa.
-Nulla blandit turpis et mauris cursus, vel convallis dui mollis.
