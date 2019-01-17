@@ -1,3 +1,5 @@
 String sample
 Another string sample
 Just the 3rd string... nothing else :)
+
+Lorem ipsum dolor sit amet.
